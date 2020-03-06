@@ -1,14 +1,20 @@
- {  "Version":"1.1", 
+{
 
- "Url":"https://github.com/maizaahub/Samai/raw/master/true.zip", 
- 
- "Changelog":"", 
+"Version":"1.1",
 
-   
-  "latestVersion": "1.0.0", 
+"Url":"https://github.com/maizaahub/Samai/raw/master/true.zip", 
 
-"latestVersionCode": "1", 
+"Changelog":"",
 
-"url": "",  
 
-"releaseNotes":[  "-Demo"    ] }
+
+
+
+
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo" 
+  ]
+}
