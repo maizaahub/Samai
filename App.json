@@ -4,7 +4,7 @@
     "BARTS VPN":false,
     "bye":"buhay na",
     "Openvpn":false,
-    "Openbpn":false,
+    "Openbpn":true,
     "IEPH Injector Lite Final":false,
     "IEPH Injector":true,
     "jack":true,
