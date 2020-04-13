@@ -1,12 +1,24 @@
-{    
-    "Destroy":false,
-    "IEPH VPN PRO":"buhay na",
-    "BARTS VPN":false,
-    "bye":"buhay na",
-    "Openvpn":true,
-    "Openbpn":true,
-    "IEPH Injector Lite Final":false,
-    "IEPH Injector":true,
-    "jack":true,
-    "jackv2":false
+{
+
+
+//แก้เวอร์ชันให้สูงขึ้น
+"Version":"1.1",
+
+//ลิ้งโหลดไฟล์ .zip
+"Link":"https://github.com/maizaahub/Samai/raw/master/SG-DTAC-SOCIAL.zip",
+
+
+
+//ใส่ข้อความอะไรก็ได้
+"Message":"ข้อความ",
+
+
+
+
+//ข้างล่างนี้ไม่ต้องแก้
+ "releaseNotes": [
+ "-Demo"
+  ]
+
+
 }
