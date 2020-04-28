@@ -2,16 +2,16 @@
 
 
 //แก้เวอร์ชันให้สูงขึ้น
-"Version":"1.3",
+"Version":"1.4",
 
 //ลิ้งโหลดไฟล์ .zip
-"Link":"https://github.com/maizaahub/Samai/raw/master/thai1.zip",
+"Link":"https://github.com/maizaahub/Samai/raw/master/chai.zip",
 
 
 
 //ใส่ข้อความอะไรก็ได้
-"Message":"เพิ่มเซิฟใหม่โปร shopee
-            เพิ่มเซิฟ Thai",
+"Message":" เพิ่มเซิฟ Thai 1 (True line)
+            เพิ่มเซิฟ Thai 4 (ทุกโปร)",
 
 
 
