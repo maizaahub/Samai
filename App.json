@@ -2,16 +2,15 @@
 
 
 //แก้เวอร์ชันให้สูงขึ้น
-"Version":"1.4",
+"Version":"1.5",
 
 //ลิ้งโหลดไฟล์ .zip
-"Link":"https://github.com/maizaahub/Samai/raw/master/chai.zip",
+"Link":"https://github.com/maizaahub/Samai/raw/master/testt.zip",
 
 
 
 //ใส่ข้อความอะไรก็ได้
-"Message":" เพิ่มเซิฟ Thai 1 (True line)
-            เพิ่มเซิฟ Thai 4 (ทุกโปร)",
+"Message":" แก้ไขเซิฟเวอร์ที่ไม่ติดออก",
 
 
 
